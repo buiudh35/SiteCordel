@@ -90,10 +90,10 @@ section {
 }
 
 .autor {
+    background-color: white;
     padding: 0px;
     padding-left: 50px;
     padding-bottom: 10px;
-    background-color: white;
     font-family: var(--fonte1);
 }
 
