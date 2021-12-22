@@ -46,7 +46,7 @@ header a , footer a {
     font-weight: bolder;
 }
 
-a:hover {
+header a:hover , footer a:hover {
     text-decoration: underline;
 }
 
@@ -65,7 +65,6 @@ section {
 }
 
 .imagem {
-    background-color: rgb(49, 49, 49);
     color: white;
     background-size: cover;
     background-attachment: fixed;
@@ -74,7 +73,7 @@ section {
 
 .imagem > p {
     width: 300px;
-    background-color: rgba(0, 0, 0, 0.466);
+    background-color: rgba(0, 0, 0, 0.582);
     padding-left: 10px;
     text-shadow: 1px 1px 0px black;
 }
